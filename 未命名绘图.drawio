@@ -1,9 +1,1394 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
-  <diagram name="第 1 页" id="YF_TjPKa7RsKh7jVlJNE">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1" pages="2">
+  <diagram name="Page-1" id="YF_TjPKa7RsKh7jVlJNE">
+    <mxGraphModel dx="4780" dy="2613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="740" width="750" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3450" y="1690" width="880" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4340" y="740" width="880" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3450" y="740" width="880" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="740" width="700" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="1240" width="700" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="740" width="930" height="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="740" width="540" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-10" target="iJ2t2IPsfPDau5FbPTah-215">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-10" value="For each SourceDomain-SourceVariable pair in source data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="502" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-13" target="iJ2t2IPsfPDau5FbPTah-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-13" target="iJ2t2IPsfPDau5FbPTah-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-13" value="If the pair is on blank CRF" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-15" target="iJ2t2IPsfPDau5FbPTah-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-15" value="Get its Form-Question" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-17" target="iJ2t2IPsfPDau5FbPTah-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-17" value="Get its SourceDomainLabel-SourceVariableLabel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-18" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="900" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-19" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1000" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-21" target="iJ2t2IPsfPDau5FbPTah-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-21" value="Global Standard Eng Spec" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="790" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-23" target="iJ2t2IPsfPDau5FbPTah-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-23" value="&quot;&lt;font color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="860" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-27" target="iJ2t2IPsfPDau5FbPTah-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-27" target="iJ2t2IPsfPDau5FbPTah-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-27" target="iJ2t2IPsfPDau5FbPTah-253">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1810" y="950" />
+              <mxPoint x="1810" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-27" value="Find the most similar row in the Spec" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-28" value="Use any similarity algorithm including AI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1505" y="885" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-29" value="Before AI, we can temp use exact match" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="970" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-30" value="Step 1.2: Find the matched row in the Global Spec to get SDTM mapping" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1260" y="750" width="430" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-31" value="Step 1.3: Finish the study level &quot;&lt;font color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1805" y="750" width="335" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-35" target="iJ2t2IPsfPDau5FbPTah-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-35" target="iJ2t2IPsfPDau5FbPTah-198">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2010" y="960" />
+              <mxPoint x="2010" y="2280" />
+              <mxPoint x="2834" y="2280" />
+              <mxPoint x="2834" y="1828" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-35" target="iJ2t2IPsfPDau5FbPTah-255">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-35" value="These rows from the global spec will be used to update the records in the study level spec &quot;&lt;font color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet using the following rules" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="920" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-49" target="iJ2t2IPsfPDau5FbPTah-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-49" target="iJ2t2IPsfPDau5FbPTah-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-49" target="iJ2t2IPsfPDau5FbPTah-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-49" target="iJ2t2IPsfPDau5FbPTah-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-49" target="iJ2t2IPsfPDau5FbPTah-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-49" target="iJ2t2IPsfPDau5FbPTah-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-49" target="iJ2t2IPsfPDau5FbPTah-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-49" target="iJ2t2IPsfPDau5FbPTah-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-49" target="iJ2t2IPsfPDau5FbPTah-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-49" target="iJ2t2IPsfPDau5FbPTah-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-49" target="iJ2t2IPsfPDau5FbPTah-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-49" target="iJ2t2IPsfPDau5FbPTah-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-49" target="iJ2t2IPsfPDau5FbPTah-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-49" value="SDTM related columns" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="1380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-51" target="iJ2t2IPsfPDau5FbPTah-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-51" value="&quot;target_domain&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="1380" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-53" target="iJ2t2IPsfPDau5FbPTah-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-53" value="Inherit value from the global spec &quot;&lt;font color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2398" y="1380" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-55" target="iJ2t2IPsfPDau5FbPTah-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-55" value="&quot;target_variable&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="1440" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-56" value="Inherit value from the global spec &quot;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2398" y="1440" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-58" target="iJ2t2IPsfPDau5FbPTah-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-58" value="&quot;intermediate_variable&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="1525" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-59" value="intermediate_variable=Y only for the rows of the intermeidate variables. For other rows, intermediate_variable is always blank" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2395" y="1505" width="215" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-61" target="iJ2t2IPsfPDau5FbPTah-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-61" value="&quot;target_variable_label&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="1610" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-62" value="Inherit value from the global spec &quot;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2398" y="1610" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-64" target="iJ2t2IPsfPDau5FbPTah-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-64" value="&quot;target_variable_data_format&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="1670" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-65" value="Inherit value from the global spec &quot;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2398" y="1670" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-67" target="iJ2t2IPsfPDau5FbPTah-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-67" value="&quot;target_variable_origin&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="1730" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-68" value="Inherit value from the global spec &quot;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2398" y="1730" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-70" target="iJ2t2IPsfPDau5FbPTah-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-70" value="&quot;target_variable_codelist&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="1790" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-72" target="iJ2t2IPsfPDau5FbPTah-174">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2700" y="1810" />
+              <mxPoint x="2700" y="2190" />
+              <mxPoint x="4320" y="2190" />
+              <mxPoint x="4320" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-72" value="Inherit value from the global spec &quot;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2398" y="1790" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-74" target="iJ2t2IPsfPDau5FbPTah-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-74" value="&quot;qeval&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="1850" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-76" target="iJ2t2IPsfPDau5FbPTah-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-76" value="&quot;idvar&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="1910" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-77" value="Inherit value from the global spec &quot;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2398" y="1850" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-78" value="Inherit value from the global spec &quot;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2398" y="1910" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-80" target="iJ2t2IPsfPDau5FbPTah-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-80" value="&quot;enforced_annotation_text&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="1970" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-81" value="Inherit value from the global spec &quot;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2398" y="1970" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-83" target="iJ2t2IPsfPDau5FbPTah-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-83" value="&quot;explanation_only&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="2030" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-84" value="Inherit value from the global spec &quot;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2398" y="2030" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-86" target="iJ2t2IPsfPDau5FbPTah-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-86" value="&quot;conversion_rule&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="2095" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-88" target="iJ2t2IPsfPDau5FbPTah-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-88" value="&quot;vlm_when&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="2170" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-90" target="iJ2t2IPsfPDau5FbPTah-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-90" value="&quot;comment&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="2230" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-91" value="Inherit value from the global spec &quot;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2398" y="2230" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-92" value="Inherit value from the global spec &quot;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2398" y="2170" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-93" value="If the source_domain and/or source_variable has been updated in the current row previously, please also update them in the conversion_rule if they presents in the rule" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2398" y="2080" width="207" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-94" value="Step 2.2: Generate study level &quot;Domain&quot; sheet" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2750" y="1250" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-101" target="iJ2t2IPsfPDau5FbPTah-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-101" target="iJ2t2IPsfPDau5FbPTah-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-101" target="iJ2t2IPsfPDau5FbPTah-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-101" target="iJ2t2IPsfPDau5FbPTah-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-101" target="iJ2t2IPsfPDau5FbPTah-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-101" target="iJ2t2IPsfPDau5FbPTah-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-101" value="For all unique SDTM domains used in the &quot;FormLevel&quot; sheet &quot;target_domain&quot; column for the exported records in the &quot;FormLevel&quot; sheet. Please export the SDTM domain&#39;s row in the &quot;&lt;font color=&quot;#0000ff&quot;&gt;Domain&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="1351.5" width="210" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-103" target="iJ2t2IPsfPDau5FbPTah-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-103" value="&quot;target_domain&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="1312.5" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-105" target="iJ2t2IPsfPDau5FbPTah-115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3250" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-105" value="&quot;target_domain_label&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="1370" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-107" target="iJ2t2IPsfPDau5FbPTah-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-107" value="&quot;target_domain_class&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="1430" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-109" target="iJ2t2IPsfPDau5FbPTah-115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3270" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-109" value="&quot;target_domain_structure&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="1490" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-111" target="iJ2t2IPsfPDau5FbPTah-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-111" value="&quot;target_domain_keys&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="1550" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-113" target="iJ2t2IPsfPDau5FbPTah-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-113" value="&quot;comment&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="1610" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-115" target="iJ2t2IPsfPDau5FbPTah-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-115" value="Inherit value from the global spec &quot;&lt;font color=&quot;#0000ff&quot;&gt;Domain&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="3290" y="1430" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-116" value="Step 3.1: Generate study level &quot;DomainLevel&quot; sheet" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3460" y="750" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-117" value="Step 2.1: Generate study level &quot;source_variable_codelist&quot; sheet" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2750" y="750" width="390" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-119" target="iJ2t2IPsfPDau5FbPTah-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-119" value="For each record exported in the &quot;&lt;font color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet, if they have source_variable_codelist not empty" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="790" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-123" target="iJ2t2IPsfPDau5FbPTah-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-123" target="iJ2t2IPsfPDau5FbPTah-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-123" target="iJ2t2IPsfPDau5FbPTah-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-123" value="Export this source codelist with all its child values to the &quot;&lt;font color=&quot;#0000ff&quot;&gt;source_variable_codelist&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="880" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-125" target="iJ2t2IPsfPDau5FbPTah-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-125" value="&quot;codelist&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2990" y="800" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-126" value="Inherit the value from the &quot;source_variable_codelist&quot; column in the &quot;&lt;font color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="795" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-128" target="iJ2t2IPsfPDau5FbPTah-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-128" value="&quot;input_value&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2990" y="890" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-130" target="iJ2t2IPsfPDau5FbPTah-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-130" value="&quot;output_value&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2990" y="1020" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-131" value="Get from EDC source codelist &quot;CodedData&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="890" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-132" value="Get from EDC source codelist &quot;UserDataString&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="1020" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-134" target="iJ2t2IPsfPDau5FbPTah-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-134" value="For any target SDTM domain exported in the &quot;&lt;font color=&quot;#0000ff&quot;&gt;Domain&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3470" y="793" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-147" target="iJ2t2IPsfPDau5FbPTah-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-147" target="iJ2t2IPsfPDau5FbPTah-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-147" target="iJ2t2IPsfPDau5FbPTah-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-147" target="iJ2t2IPsfPDau5FbPTah-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-147" target="iJ2t2IPsfPDau5FbPTah-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-147" target="iJ2t2IPsfPDau5FbPTah-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-147" target="iJ2t2IPsfPDau5FbPTah-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-147" target="iJ2t2IPsfPDau5FbPTah-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-147" target="iJ2t2IPsfPDau5FbPTah-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-147" target="iJ2t2IPsfPDau5FbPTah-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-147" target="iJ2t2IPsfPDau5FbPTah-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-147" target="iJ2t2IPsfPDau5FbPTah-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-147" value="Find records in the global spec &quot;&lt;font color=&quot;#0000ff&quot;&gt;DomainLevel&lt;/font&gt;&quot; sheet which has &quot;target_domain&quot; column value equal to&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. the target SDTM domain in the &quot;&lt;/span&gt;&lt;font style=&quot;background-color: initial; border-color: var(--border-color);&quot; color=&quot;#0000ff&quot;&gt;Domain&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot; sheet&lt;br&gt;2. &quot;GLOBAL&quot;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="3630" y="775.13" width="210" height="95.75" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-149" target="iJ2t2IPsfPDau5FbPTah-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-149" value="&quot;target_domain&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3880" y="803" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-150" value="Inherit value from the global spec &quot;&lt;font color=&quot;#0000ff&quot;&gt;DomainLevel&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="4095" y="1060" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-152" target="iJ2t2IPsfPDau5FbPTah-150">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4095" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-152" value="&quot;variable&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3880" y="870" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-154" target="iJ2t2IPsfPDau5FbPTah-150">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4095" y="956.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-154" value="&quot;intermediate_variable&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3880" y="936.25" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-156" target="iJ2t2IPsfPDau5FbPTah-150">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4095" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-156" value="&quot;target_variable_label&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3880" y="1000" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-158" target="iJ2t2IPsfPDau5FbPTah-150">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4095" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-158" value="&quot;target_variable_data_format&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3880" y="1060" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-160" target="iJ2t2IPsfPDau5FbPTah-150">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4095" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-160" value="&quot;target_variable_origin&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3880" y="1120" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-162" target="iJ2t2IPsfPDau5FbPTah-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-162" value="&quot;target_variable_codelist&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3880" y="1180" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-164" target="iJ2t2IPsfPDau5FbPTah-150">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4095" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-164" value="&quot;qeval&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3880" y="1240" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-166" target="iJ2t2IPsfPDau5FbPTah-150">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4095" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-166" value="&quot;idvar&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3880" y="1300" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-168" target="iJ2t2IPsfPDau5FbPTah-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-168" value="&quot;explanation_only&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3880" y="1360" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-170" target="iJ2t2IPsfPDau5FbPTah-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-170" value="&quot;conversion_rule&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3880" y="1420" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-171" value="If the source_domain and/or source_variable has been updated in the &quot;&lt;font color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet previously, please also update them in the conversion_rule if they presents in the rule" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="4080" y="1397.5" width="225" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-172" value="Step 5: Generate study level &quot;target_variable_codelist&quot; sheet" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="4350" y="750" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-174" target="iJ2t2IPsfPDau5FbPTah-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-174" value="For each record exported to the &quot;&lt;font color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; and &quot;&lt;font color=&quot;#0000ff&quot;&gt;DomainLevel&lt;/font&gt;&quot; sheet, if they have target_variable_codelist column is not empty" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4370" y="790" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-178" target="iJ2t2IPsfPDau5FbPTah-180">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4630" y="915" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-178" target="iJ2t2IPsfPDau5FbPTah-183">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4630" y="915" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-178" target="iJ2t2IPsfPDau5FbPTah-185">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4630" y="915" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-178" value="Export this target codelist with all its child values to the &quot;&lt;font color=&quot;#0000ff&quot;&gt;target_variable_codelist&lt;/font&gt;&quot; sheet if it does not yet exist" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4390" y="885" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-180" target="iJ2t2IPsfPDau5FbPTah-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-180" value="&quot;codelist&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4690" y="805" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-181" value="Inherit the value from the &quot;target_variable_codelist&quot; column in the &quot;&lt;font color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot;&amp;nbsp;and &quot;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000ff&quot;&gt;DomainLevel&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&quot; sheet&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="4910" y="795" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-183" target="iJ2t2IPsfPDau5FbPTah-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-183" value="&quot;input_value&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4690" y="895" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-185" target="iJ2t2IPsfPDau5FbPTah-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-185" value="&quot;output_value&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4690" y="1010" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-186" value="Get from EDC source codelist &quot;UserDataString&quot; or the actual available values of the variable in EDC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="4910" y="882.5" width="240" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-187" value="Use any similarity algorithm including AI to &lt;br&gt;1. Find the best matched value from the &quot;target_codelist&quot; sheet in the global Spec&lt;br&gt;2.If no match found in #1, then&amp;nbsp;&lt;br&gt;find the best matched value from the CDISC official SDTM CT. &lt;br&gt;3. Else copy the &quot;input_value&quot; but upcase it in &quot;output_value&quot;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="4910" y="970" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-189" target="iJ2t2IPsfPDau5FbPTah-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-189" value="Inherit value from the global spec &quot;&lt;font color=&quot;#0000ff&quot;&gt;DomainLevel&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="4095" y="1180" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-191" target="iJ2t2IPsfPDau5FbPTah-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1810" y="1098" />
+              <mxPoint x="1810" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-191" value="For intermediate variables rows in the global spec, if this variable (variable name in target_variable) is used in the&amp;nbsp;conversion_rule of another variable row which is going to be exported to the study level spec, also export the row of this intermediate variable, and has intermediate_variable=Y. Else not export row for the intermediate variable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="1035" width="262" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-192" value="Step 3.2: Generate study level &quot;IntermediateDataset&quot; sheet" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3460" y="1700" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-198" target="iJ2t2IPsfPDau5FbPTah-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-198" target="iJ2t2IPsfPDau5FbPTah-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-198" target="iJ2t2IPsfPDau5FbPTah-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-198" target="iJ2t2IPsfPDau5FbPTah-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-198" target="iJ2t2IPsfPDau5FbPTah-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-198" value="For intermediate datasets rows in the global spec, if this dataset (intermediate_dataset column) is used in the&amp;nbsp;conversion_rule of another variable row which is going to be exported to the study level spec, also export the row of this intermediate dataset in the &quot;&lt;font color=&quot;#0000ff&quot;&gt;IntermediateDataset&lt;/font&gt;&quot; sheet for the correct &quot;tier&quot;. Else not export row for the intermediate variable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="3478" y="1765" width="262" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-200" target="iJ2t2IPsfPDau5FbPTah-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-200" value="&quot;target_domain&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3780" y="1740" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-202" target="iJ2t2IPsfPDau5FbPTah-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-202" value="&quot;tier&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3780" y="1820" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-204" target="iJ2t2IPsfPDau5FbPTah-211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-204" value="&quot;intermediate_dataset&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3780" y="1910" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-206" target="iJ2t2IPsfPDau5FbPTah-212">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-206" value="&quot;conversion_rule&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3780" y="2000" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-208" target="iJ2t2IPsfPDau5FbPTah-213">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-208" value="&quot;comment&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3780" y="2095" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-209" value="Inherit value from the global spec &quot;&lt;font color=&quot;#0000ff&quot;&gt;IntermediateDataset&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="3980" y="1735" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-210" value="Inherit value from the global spec &quot;&lt;font color=&quot;#0000ff&quot;&gt;IntermediateDataset&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="3980" y="1815" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-211" value="Inherit value from the global spec &quot;&lt;font color=&quot;#0000ff&quot;&gt;IntermediateDataset&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="3980" y="1905" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-212" value="If the source_domain and/or source_variable has been updated in the &quot;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet previously, please also update them in the conversion_rule if they presents in the rule" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="3980" y="1972.5" width="207" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-213" value="Inherit value from the global spec &quot;&lt;font color=&quot;#0000ff&quot;&gt;IntermediateDataset&lt;/font&gt;&quot; sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="3980" y="2090" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-215" target="iJ2t2IPsfPDau5FbPTah-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-215" value="Export records in the &quot;&lt;font color=&quot;#0000ff&quot;&gt;FormLevel&lt;/font&gt;&quot; sheet and fill all &quot;Source data related columns&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="672" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-217" target="iJ2t2IPsfPDau5FbPTah-218">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-217" value="&quot;source_domain&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="842" y="1075" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-218" value="Please use the real source dataset name" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1070" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-220" target="iJ2t2IPsfPDau5FbPTah-221">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-220" value="&quot;formname&quot; column" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="842" y="1151.25" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-221" value="Please use the real form name. If no form for such dataset, keep empty" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1137.5" width="130" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-230" target="iJ2t2IPsfPDau5FbPTah-217">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-230" target="iJ2t2IPsfPDau5FbPTah-220">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-230" target="iJ2t2IPsfPDau5FbPTah-232">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-230" target="iJ2t2IPsfPDau5FbPTah-235">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-230" target="iJ2t2IPsfPDau5FbPTah-238">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-230" target="iJ2t2IPsfPDau5FbPTah-241">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-230" target="iJ2t2IPsfPDau5FbPTah-244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-230" target="iJ2t2IPsfPDau5FbPTah-248">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-230" value="Source data related columns" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="682" y="1142" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-232" target="iJ2t2IPsfPDau5FbPTah-233">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-232" value="&quot;source_variable&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="842" y="1235" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-233" value="Please use the real source variable name" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1235" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-235" target="iJ2t2IPsfPDau5FbPTah-236">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-235" value="&quot;source_variable_label&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="842" y="1305" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-236" value="Please use the real source variable name" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1305" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-238" target="iJ2t2IPsfPDau5FbPTah-239">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-238" value="&quot;source_variable_type&quot; column" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="842" y="1375" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-239" value="Please use the real source variable attribute from EDC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1375" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-241" target="iJ2t2IPsfPDau5FbPTah-242">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-241" value="&quot;source_variable_data_format&quot; column" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="842" y="1445" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-242" value="Please use the real source variable attribute from EDC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1445" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-244" target="iJ2t2IPsfPDau5FbPTah-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-244" value="&quot;source_variable_codelist&quot; column" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="842" y="1515" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-246" target="iJ2t2IPsfPDau5FbPTah-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2785" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1970" y="1535" />
+              <mxPoint x="1970" y="1070" />
+              <mxPoint x="2600" y="1070" />
+              <mxPoint x="2600" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-246" value="Please use the real source data dictionary bind to the source variable in EDC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1505" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-248" target="iJ2t2IPsfPDau5FbPTah-249">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-248" value="&quot;crf_question&quot; column" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="842" y="1585" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-249" value="Please use the real question. If no question for such variable, keep empty" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1575" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-250" value="Step 1.1: Generate rows in the &quot;FormLevel&quot; sheet" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="750" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-251" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="1060" as="sourcePoint" />
+            <mxPoint x="1190" y="1630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-252" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="iJ2t2IPsfPDau5FbPTah-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="1210" as="sourcePoint" />
+            <mxPoint x="1030" y="1140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1230" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-253" value="If no similar row found in the global spec, then no need to update the current row in the study spec" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="781.5" width="130" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJ2t2IPsfPDau5FbPTah-255" target="iJ2t2IPsfPDau5FbPTah-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-255" value="If the most similar row exist multiple times in the Global spec, the duplicate this row in the study spec for the same times and each row will inherit values from one record from the Global spec" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="865" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-256" value="如果一个Variable对应多个Item，则使用::作为分隔符" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1570" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-257" value="如果一个Variable对应多个Item，则用_将CodeList name拼接起来" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1511.25" width="300" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-258" value="如果一个Variable对应多个Item，则用::将Type拼接起来" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1370" width="300" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-259" value="如果一个Variable对应多个Item，则用::将formname拼接起来" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1192.5" width="300" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ2t2IPsfPDau5FbPTah-260" value="如果存在一个Variable对应多个Radio或Listbox类型的控件，则保留非重复的Code List Text及其Value。如果有重复的Code List Text则保留第一条。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2900" y="1075" width="480" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page-2" id="ZBvU8IHrIsqO3JimzvXE">
+    <mxGraphModel dx="4374" dy="2604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-56" target="M2phbJiFlmLB7yDj2KZN-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="-140" />
+              <mxPoint x="90" y="-140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-890" width="950" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="SoTkbQC-uO_D1QmSw9Fc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="M2phbJiFlmLB7yDj2KZN-2" target="SoTkbQC-uO_D1QmSw9Fc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M2phbJiFlmLB7yDj2KZN-2" value="获取Raw Data中的所有Domain和Variable（包括CRF中不存在的变量）" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SoTkbQC-uO_D1QmSw9Fc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;" edge="1" parent="1" source="M2phbJiFlmLB7yDj2KZN-3" target="SoTkbQC-uO_D1QmSw9Fc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RDA_WIrNvxHgrLgnfTCT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M2phbJiFlmLB7yDj2KZN-3" target="RDA_WIrNvxHgrLgnfTCT-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M2phbJiFlmLB7yDj2KZN-3" value="产生Source_Data Related Row, 按 Step 1.1 填充值到StudySpec/FormLevel表" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="30" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M2phbJiFlmLB7yDj2KZN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;align=center;" edge="1" parent="1" source="M2phbJiFlmLB7yDj2KZN-2" target="M2phbJiFlmLB7yDj2KZN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SoTkbQC-uO_D1QmSw9Fc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;align=center;" edge="1" parent="1" source="SoTkbQC-uO_D1QmSw9Fc-1" target="SoTkbQC-uO_D1QmSw9Fc-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="60.0344827586207" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SoTkbQC-uO_D1QmSw9Fc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="SoTkbQC-uO_D1QmSw9Fc-1" target="SoTkbQC-uO_D1QmSw9Fc-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="75" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SoTkbQC-uO_D1QmSw9Fc-1" value="使用AI在GlobalSpec/FormLevel中匹配（排除&quot;intermadiate_variable&quot;为空的Row)" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="470" y="30" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SoTkbQC-uO_D1QmSw9Fc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;align=center;" edge="1" parent="1" source="SoTkbQC-uO_D1QmSw9Fc-3" target="SoTkbQC-uO_D1QmSw9Fc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SoTkbQC-uO_D1QmSw9Fc-3" value="和CRF比对，标记出非CRF变量" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PHYfSH1JyHazHRWW_Or--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SoTkbQC-uO_D1QmSw9Fc-7" target="PHYfSH1JyHazHRWW_Or--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SoTkbQC-uO_D1QmSw9Fc-7" value="对于CRF变量，用“formname” + “crf_quesiton&quot;匹配" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-40" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PHYfSH1JyHazHRWW_Or--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SoTkbQC-uO_D1QmSw9Fc-11" target="PHYfSH1JyHazHRWW_Or--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SoTkbQC-uO_D1QmSw9Fc-11" value="对于非CRF变量，用&quot;&lt;span data-teams=&quot;true&quot;&gt;source_domain_label&lt;/span&gt;&quot; + &quot;&lt;span data-teams=&quot;true&quot;&gt;source_variable_lable&lt;/span&gt;&quot;匹配" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="710" y="110" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PHYfSH1JyHazHRWW_Or--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PHYfSH1JyHazHRWW_Or--2" target="PHYfSH1JyHazHRWW_Or--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PHYfSH1JyHazHRWW_Or--2" value="取相Global Spec中相似度最高的Form+Question组合" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="930" y="-40" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PHYfSH1JyHazHRWW_Or--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PHYfSH1JyHazHRWW_Or--3" target="PHYfSH1JyHazHRWW_Or--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PHYfSH1JyHazHRWW_Or--3" value="取相Global Spec中相似度最高的Domain label+Variable label组合" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="930" y="115" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6jdONmyuMdq8JkN0mMq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PHYfSH1JyHazHRWW_Or--4" target="PHYfSH1JyHazHRWW_Or--10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1190" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6jdONmyuMdq8JkN0mMq-3" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f6jdONmyuMdq8JkN0mMq-2">
+          <mxGeometry x="0.0943" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6jdONmyuMdq8JkN0mMq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PHYfSH1JyHazHRWW_Or--4" target="f6jdONmyuMdq8JkN0mMq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6jdONmyuMdq8JkN0mMq-5" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f6jdONmyuMdq8JkN0mMq-4">
+          <mxGeometry x="0.1417" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHYfSH1JyHazHRWW_Or--4" value="是否存在多条Row满足条件？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="35" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ewqa15tn1XK1f0ovBey8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PHYfSH1JyHazHRWW_Or--10" target="WBuyYq21Kipmd25Pb-0n-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uc4Yl7xvWNZ6OSWxstQC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PHYfSH1JyHazHRWW_Or--10" target="Uc4Yl7xvWNZ6OSWxstQC-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1510" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8o-O0nYayPSStRczUQKX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PHYfSH1JyHazHRWW_Or--10" target="8o-O0nYayPSStRczUQKX-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1510" y="180" />
+              <mxPoint x="1510" y="-20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PHYfSH1JyHazHRWW_Or--10" value="按照Step1.3，将GlobalSpec/FormLevel中的SDTM字段值填充到对应的Row" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="160" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6jdONmyuMdq8JkN0mMq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f6jdONmyuMdq8JkN0mMq-1" target="PHYfSH1JyHazHRWW_Or--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6jdONmyuMdq8JkN0mMq-1" value="在StudySpec/FormLevel中复制Source Data Row" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="45" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6jdONmyuMdq8JkN0mMq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f6jdONmyuMdq8JkN0mMq-7" target="f6jdONmyuMdq8JkN0mMq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ewqa15tn1XK1f0ovBey8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WBuyYq21Kipmd25Pb-0n-1" target="ewqa15tn1XK1f0ovBey8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ-z4DT8gktVE9eaIehb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WBuyYq21Kipmd25Pb-0n-1" target="ZeQxFkWrIMO3QB-DjKNI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WBuyYq21Kipmd25Pb-0n-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;如果在&lt;/span&gt;StudySpec/FormLevel中，一个Row&lt;span style=&quot;background-color: initial;&quot;&gt;的“source_variable” &amp;amp; “source_domain”和GlobalSpec/FormLevel的值不同，则需要在这个Row中更新“conversion_rule”&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="155" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ewqa15tn1XK1f0ovBey8-4" value="FormLevel" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-85" width="2100" height="475" as="geometry" />
+        </mxCell>
+        <mxCell id="ewqa15tn1XK1f0ovBey8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ewqa15tn1XK1f0ovBey8-4" source="f6jdONmyuMdq8JkN0mMq-7" target="f6jdONmyuMdq8JkN0mMq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6jdONmyuMdq8JkN0mMq-7" value="在StudySpec/FormLevel中&quot;conversion_rule&quot;列中，提取出全部”intermadiate.xxx”文本" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ewqa15tn1XK1f0ovBey8-4">
+          <mxGeometry x="1400" y="355" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ewqa15tn1XK1f0ovBey8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ewqa15tn1XK1f0ovBey8-4" source="f6jdONmyuMdq8JkN0mMq-8" target="ewqa15tn1XK1f0ovBey8-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1930" y="385" />
+              <mxPoint x="1930" y="276" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6jdONmyuMdq8JkN0mMq-8" value="在GlobalSpec/FormLevel表中，检索intermediate_variable = &quot;Y&quot;且target_variable = &quot;xxx&quot; 的Row，插入到StudySpec/FormLevel表中" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ewqa15tn1XK1f0ovBey8-4">
+          <mxGeometry x="1620" y="355" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ewqa15tn1XK1f0ovBey8-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ewqa15tn1XK1f0ovBey8-4">
+          <mxGeometry x="41" y="127" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ewqa15tn1XK1f0ovBey8-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ewqa15tn1XK1f0ovBey8-4">
+          <mxGeometry x="1980" y="258" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeQxFkWrIMO3QB-DjKNI-2" value="这里建议直接记录下StudySpec和GlobalSpec中SourceDomain&amp;amp;SourceVariable的映射关系，后边所有conversion_rule字段都需要将Domain&amp;amp;variable替换为StudySpec的字段值&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ff0000;strokeColor=#ff0000;dashed=1;dashPattern=8 8;" vertex="1" parent="ewqa15tn1XK1f0ovBey8-4">
+          <mxGeometry x="1730" y="110" width="336" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="hrBDBIzSSwd6lnQI2fdS-3" value="此时FormLevel表中，Domain+Variable的组合应该是唯一不重复的。如果一个variable对应多个Item，则需要合并formname，crf_question, source_variable_type, 以及source_variable_codelist" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0534f0;" vertex="1" parent="ewqa15tn1XK1f0ovBey8-4">
+          <mxGeometry x="260" y="35" width="270" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="f6jdONmyuMdq8JkN0mMq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PHYfSH1JyHazHRWW_Or--10" target="f6jdONmyuMdq8JkN0mMq-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1385.0000000000005" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ewqa15tn1XK1f0ovBey8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewqa15tn1XK1f0ovBey8-5" target="M2phbJiFlmLB7yDj2KZN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRH0mZ_Y9nXc-FtbWMDd-2" value="Domain" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="-470" width="620" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="KRH0mZ_Y9nXc-FtbWMDd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KRH0mZ_Y9nXc-FtbWMDd-2" source="TbafcDIwgJsJIuhF8-lH-1" target="KRH0mZ_Y9nXc-FtbWMDd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbafcDIwgJsJIuhF8-lH-1" value="用这些unique target domain在GlobalSpec/Domain表中找到对应的Row填充到StudySpec/Domain表" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="KRH0mZ_Y9nXc-FtbWMDd-2">
+          <mxGeometry x="220" y="63" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KRH0mZ_Y9nXc-FtbWMDd-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="KRH0mZ_Y9nXc-FtbWMDd-2">
+          <mxGeometry x="548" y="75.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeQxFkWrIMO3QB-DjKNI-4" value="Intermediate Dataset" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="550" width="680" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeQxFkWrIMO3QB-DjKNI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZeQxFkWrIMO3QB-DjKNI-4" source="f6jdONmyuMdq8JkN0mMq-11" target="ZeQxFkWrIMO3QB-DjKNI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6jdONmyuMdq8JkN0mMq-11" value="在GlobalSpec/IntermediateDataset表中，检索intermediate_dataset = &quot;xxx&quot; 的Row，插入到StudySpec/IntermediateDataset表中" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ZeQxFkWrIMO3QB-DjKNI-4">
+          <mxGeometry x="90" y="50" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeQxFkWrIMO3QB-DjKNI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZeQxFkWrIMO3QB-DjKNI-4" source="ZeQxFkWrIMO3QB-DjKNI-1" target="ZeQxFkWrIMO3QB-DjKNI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeQxFkWrIMO3QB-DjKNI-1" value="在&quot;conversion_rule&quot;字段中，根据StudySpec和GlobalSpec中SourceDomain和SourceVariable的映射关系，更新值" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ZeQxFkWrIMO3QB-DjKNI-4">
+          <mxGeometry x="360" y="50" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeQxFkWrIMO3QB-DjKNI-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ZeQxFkWrIMO3QB-DjKNI-4">
+          <mxGeometry x="620" y="62.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6QNl5nWt3ib2pTYoBxzl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uc4Yl7xvWNZ6OSWxstQC-3" target="_2Lhd257WGIfGNqvImCw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uc4Yl7xvWNZ6OSWxstQC-3" value="从StudySpec/FormLevel中提取出Unique “target_domain&quot;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="-210" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="KRH0mZ_Y9nXc-FtbWMDd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uc4Yl7xvWNZ6OSWxstQC-3" target="TbafcDIwgJsJIuhF8-lH-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1510" y="-377" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_2Lhd257WGIfGNqvImCw-1" value="DomainLevel" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="-280" width="960" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="6QNl5nWt3ib2pTYoBxzl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_2Lhd257WGIfGNqvImCw-1" source="_2Lhd257WGIfGNqvImCw-3" target="6QNl5nWt3ib2pTYoBxzl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2Lhd257WGIfGNqvImCw-3" value="用这些unique target domain在GlobalSpec/DomainLevel表中找到对应的Row填充到StudySpec/DomainLevel表" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="_2Lhd257WGIfGNqvImCw-1">
+          <mxGeometry x="120" y="70" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_2Lhd257WGIfGNqvImCw-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="_2Lhd257WGIfGNqvImCw-1">
+          <mxGeometry x="900" y="82.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ-z4DT8gktVE9eaIehb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_2Lhd257WGIfGNqvImCw-1" source="6QNl5nWt3ib2pTYoBxzl-2" target="HQ-z4DT8gktVE9eaIehb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6QNl5nWt3ib2pTYoBxzl-2" value="将GlobalSpec/DomainLevel表中“target_domain” = &quot;GLOBAL&quot;的Row填充到StudySpec/DomainLevel表" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="_2Lhd257WGIfGNqvImCw-1">
+          <mxGeometry x="400" y="70" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ-z4DT8gktVE9eaIehb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_2Lhd257WGIfGNqvImCw-1" source="HQ-z4DT8gktVE9eaIehb-1" target="_2Lhd257WGIfGNqvImCw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ-z4DT8gktVE9eaIehb-1" value="更新conversion_rule" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="_2Lhd257WGIfGNqvImCw-1">
+          <mxGeometry x="660" y="70" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ-z4DT8gktVE9eaIehb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="ZeQxFkWrIMO3QB-DjKNI-2" target="HQ-z4DT8gktVE9eaIehb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HQ-z4DT8gktVE9eaIehb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZeQxFkWrIMO3QB-DjKNI-2" target="ZeQxFkWrIMO3QB-DjKNI-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2160" y="63" />
+              <mxPoint x="2160" y="440" />
+              <mxPoint x="1650" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDA_WIrNvxHgrLgnfTCT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RDA_WIrNvxHgrLgnfTCT-2" target="RDA_WIrNvxHgrLgnfTCT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RDA_WIrNvxHgrLgnfTCT-2" value="从StudySpec/FormLevel &quot;source_variable_codelist&quot;提取出Unique Code List" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="440" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RDA_WIrNvxHgrLgnfTCT-4" value="source_variable_codelist" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="550" width="550" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RDA_WIrNvxHgrLgnfTCT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RDA_WIrNvxHgrLgnfTCT-4" source="RDA_WIrNvxHgrLgnfTCT-5" target="RDA_WIrNvxHgrLgnfTCT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RDA_WIrNvxHgrLgnfTCT-5" value="从CRF获取Code List，将Codelist的Name填充到“codelist”，Text填充到“input_value”, Value填充“output_value”" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="RDA_WIrNvxHgrLgnfTCT-4">
+          <mxGeometry x="170" y="50" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RDA_WIrNvxHgrLgnfTCT-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="RDA_WIrNvxHgrLgnfTCT-4">
+          <mxGeometry x="460" y="62.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="xf9amJBWXBWBn2fIM7kW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8o-O0nYayPSStRczUQKX-1" target="xf9amJBWXBWBn2fIM7kW-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2450" y="-20" />
+              <mxPoint x="2450" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8o-O0nYayPSStRczUQKX-1" value="从StudySpec/FormLevel 和Domain Level查询全部“Target Variable Codelist”及其对应的“target variable”" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="-50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8o-O0nYayPSStRczUQKX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6QNl5nWt3ib2pTYoBxzl-2" target="8o-O0nYayPSStRczUQKX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xf9amJBWXBWBn2fIM7kW-3" value="Target Variable Codelist" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2390" y="80" width="1230" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="I-fTyVgmVZzwS6m4zapc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xf9amJBWXBWBn2fIM7kW-3" source="xf9amJBWXBWBn2fIM7kW-2" target="xf9amJBWXBWBn2fIM7kW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xf9amJBWXBWBn2fIM7kW-2" value="如果“target variable”在StudySpec/FormLevel中有对应的Source Variable Codelist，则将这个Codelist的output作为target variable codelist的Input，填充到StudySpec/TargetVariableCodelist&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="xf9amJBWXBWBn2fIM7kW-3">
+          <mxGeometry x="110" y="127.5" width="210" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="xf9amJBWXBWBn2fIM7kW-5" value="使用“Codelist” + “input_value”和GlobalSpec/TargetVariableCodelist比对（通过文本相似度）" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="xf9amJBWXBWBn2fIM7kW-3">
+          <mxGeometry x="380" y="148.75" width="210" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lxVLWQUSgpNyFN9_nLVV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xf9amJBWXBWBn2fIM7kW-3" source="I-fTyVgmVZzwS6m4zapc-1" target="I-fTyVgmVZzwS6m4zapc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxVLWQUSgpNyFN9_nLVV-13" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lxVLWQUSgpNyFN9_nLVV-5">
+          <mxGeometry x="-0.4713" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxVLWQUSgpNyFN9_nLVV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xf9amJBWXBWBn2fIM7kW-3" source="I-fTyVgmVZzwS6m4zapc-1" target="I-fTyVgmVZzwS6m4zapc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxVLWQUSgpNyFN9_nLVV-14" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lxVLWQUSgpNyFN9_nLVV-9">
+          <mxGeometry x="-0.0118" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I-fTyVgmVZzwS6m4zapc-1" value="存在最佳匹配？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="xf9amJBWXBWBn2fIM7kW-3">
+          <mxGeometry x="640" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I-fTyVgmVZzwS6m4zapc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xf9amJBWXBWBn2fIM7kW-3" source="xf9amJBWXBWBn2fIM7kW-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxVLWQUSgpNyFN9_nLVV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xf9amJBWXBWBn2fIM7kW-3" source="I-fTyVgmVZzwS6m4zapc-7" target="lxVLWQUSgpNyFN9_nLVV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-fTyVgmVZzwS6m4zapc-7" value="从&lt;span style=&quot;text-align: left;&quot;&gt;CDISC official SDTM CT寻找最佳匹配&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="xf9amJBWXBWBn2fIM7kW-3">
+          <mxGeometry x="605" y="290" width="150" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lxVLWQUSgpNyFN9_nLVV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xf9amJBWXBWBn2fIM7kW-3" source="I-fTyVgmVZzwS6m4zapc-4" target="lxVLWQUSgpNyFN9_nLVV-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I-fTyVgmVZzwS6m4zapc-4" value="根据匹配结果填充“output_value”" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="xf9amJBWXBWBn2fIM7kW-3">
+          <mxGeometry x="780" y="148.75" width="145" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lxVLWQUSgpNyFN9_nLVV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xf9amJBWXBWBn2fIM7kW-3" source="lxVLWQUSgpNyFN9_nLVV-3" target="lxVLWQUSgpNyFN9_nLVV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxVLWQUSgpNyFN9_nLVV-15" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lxVLWQUSgpNyFN9_nLVV-11">
+          <mxGeometry x="-0.1256" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxVLWQUSgpNyFN9_nLVV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xf9amJBWXBWBn2fIM7kW-3" source="lxVLWQUSgpNyFN9_nLVV-3" target="lxVLWQUSgpNyFN9_nLVV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxVLWQUSgpNyFN9_nLVV-16" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lxVLWQUSgpNyFN9_nLVV-12">
+          <mxGeometry x="-0.0356" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxVLWQUSgpNyFN9_nLVV-3" value="存在最佳匹配？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="xf9amJBWXBWBn2fIM7kW-3">
+          <mxGeometry x="806.5" y="281.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lxVLWQUSgpNyFN9_nLVV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xf9amJBWXBWBn2fIM7kW-3" source="lxVLWQUSgpNyFN9_nLVV-8" target="lxVLWQUSgpNyFN9_nLVV-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxVLWQUSgpNyFN9_nLVV-8" value="将“input_value”转为全大写填充到“output_value”" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="xf9amJBWXBWBn2fIM7kW-3">
+          <mxGeometry x="774" y="407.5" width="145" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lxVLWQUSgpNyFN9_nLVV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xf9amJBWXBWBn2fIM7kW-3" source="lxVLWQUSgpNyFN9_nLVV-10" target="lxVLWQUSgpNyFN9_nLVV-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxVLWQUSgpNyFN9_nLVV-10" value="根据匹配结果填充“output_value”" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="xf9amJBWXBWBn2fIM7kW-3">
+          <mxGeometry x="930" y="290" width="145" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lxVLWQUSgpNyFN9_nLVV-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="xf9amJBWXBWBn2fIM7kW-3">
+          <mxGeometry x="1000" y="155.75" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lxVLWQUSgpNyFN9_nLVV-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="xf9amJBWXBWBn2fIM7kW-3">
+          <mxGeometry x="1130" y="297.25" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lxVLWQUSgpNyFN9_nLVV-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="xf9amJBWXBWBn2fIM7kW-3">
+          <mxGeometry x="978.5" y="414.75" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-1" target="gBSPAjX_StgLv6e3fW4y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-1" target="gBSPAjX_StgLv6e3fW4y-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-1" target="gBSPAjX_StgLv6e3fW4y-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-1" value="导入Raw Data (sas格式)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1143" y="-528.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-2" target="gBSPAjX_StgLv6e3fW4y-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-2" value="解析File Name，去除文件格式后缀作为Domain Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="-528.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-3" target="gBSPAjX_StgLv6e3fW4y-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-3" value="解析File中所有列的Name作为Variable Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="-423.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-6" target="gBSPAjX_StgLv6e3fW4y-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-6" value="解析File中所有列的Label作为Variable Label" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="-318.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-8" target="gBSPAjX_StgLv6e3fW4y-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-8" value="获得所有Domian+Variable的组合，填充到StudySpec/FormLevel表的source_domain, source_variable, 以及source_varialbe_lable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-763" y="-541" width="190" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-13" value="在Designer找到这些Domian，以及Variable对应的Item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-523" y="-528.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-20" target="gBSPAjX_StgLv6e3fW4y-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-20" value="source_variable_codelist列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-13" y="-505" width="150" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-22" value="如果Variable对应多个item，则将使用的codelist name合并，用“_”分隔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="-505" width="150" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-26" target="gBSPAjX_StgLv6e3fW4y-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-26" value="forrm_name列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-13" y="-855" width="150" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-27" target="gBSPAjX_StgLv6e3fW4y-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-27" value="source_variable_type列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-13" y="-735" width="150" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-28" target="gBSPAjX_StgLv6e3fW4y-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-28" value="source_variable_data_format列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-13" y="-615" width="150" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-30" target="gBSPAjX_StgLv6e3fW4y-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-30" value="crf_question列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-13" y="-390" width="150" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-32" value="如果Variable对应多个item，则将item对应的所有formname合并，用“::”分隔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="-855" width="150" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-34" value="如果Variable对应多个item，取第一个Item的controltype" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="214" y="-735" width="150" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-35" value="如果Variable对应多个item，取第一个Item的format" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="214" y="-615" width="150" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-36" target="gBSPAjX_StgLv6e3fW4y-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-36" target="gBSPAjX_StgLv6e3fW4y-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-36" value="注意当一个变量对应多个Item时，这两个字段应该从同一个Item取值" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="407" y="-655" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-39" value="如果Variable对应多个item，则将item对应的所有question合并，用“::”分隔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="-390" width="150" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-41" target="gBSPAjX_StgLv6e3fW4y-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-41" value="假设一个AEID变量对应两个Item，question都是Adverse Event ID，则crf_question应该是Adverse Event ID::Adverse Event ID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="397" y="-383.75" width="270" height="48.75" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-45" target="gBSPAjX_StgLv6e3fW4y-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-45" value="假设一个AEID变量对应两个Item，form name都是Adverse Events，则crf_question应该是Adverse Events::Adverse Events" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="397" y="-848" width="270" height="48.75" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-52" target="gBSPAjX_StgLv6e3fW4y-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="-516" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-13" target="gBSPAjX_StgLv6e3fW4y-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-403" y="-498" as="sourcePoint" />
+            <mxPoint x="-43" y="-274" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-58" target="gBSPAjX_StgLv6e3fW4y-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-58" target="gBSPAjX_StgLv6e3fW4y-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-58" target="gBSPAjX_StgLv6e3fW4y-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-58" target="gBSPAjX_StgLv6e3fW4y-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-58" target="gBSPAjX_StgLv6e3fW4y-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-330" y="-249" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-68" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gBSPAjX_StgLv6e3fW4y-67">
+          <mxGeometry x="-0.4892" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-58" value="Variable是否为CRF变量" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="-539" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.459;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gBSPAjX_StgLv6e3fW4y-58" target="gBSPAjX_StgLv6e3fW4y-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-65" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gBSPAjX_StgLv6e3fW4y-60">
+          <mxGeometry x="-0.9075" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gBSPAjX_StgLv6e3fW4y-66" value="以上列均为空白" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-281" width="150" height="62.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
